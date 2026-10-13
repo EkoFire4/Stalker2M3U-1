@@ -1,166 +1,241 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="830062" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",14/10 02:00 AM | UEFA 07 Inter Milan vs Club Brugge
+#EXTINF:-1 tvg-id="1150168" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | EN FEYENOORD VS COMO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3DB452F879607585787528B7C9179E00
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830062&extension=ts&play_token=5Mxiqp9NlR
-#EXTINF:-1 tvg-id="830062" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",14/10 02:00 AM | UEFA 07 Inter Milan vs Club Brugge
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7FE103FD1695BE5F92BEAB6E90AF596
+http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1150168
+#EXTINF:-1 tvg-id="1150168" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | EN FEYENOORD VS COMO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 075C3F15972DA226BAD8DF22DFDEAED1
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830062&extension=ts&play_token=Nqfa23Yyzz
-#EXTINF:-1 tvg-id="830062" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",14/10 02:00 AM | UEFA 07 Inter Milan vs Club Brugge
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 91823FBBE11EF62D7EC4C3CDF21D1C21
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1150168
+#EXTINF:-1 tvg-id="1150141" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | FR FEYENOORD VS COMO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF73D95833E6A4F1D1FEE47A0DEA230F
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=830062&extension=ts&play_token=8LfZNFmiak
-#EXTINF:-1 tvg-id="830065" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",14/10 02:00 AM | UEFA 04 Arsenal vs Lille
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7FE103FD1695BE5F92BEAB6E90AF596
+http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1150141
+#EXTINF:-1 tvg-id="1292008" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | AR FEYENOORD VS COMO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3DB452F879607585787528B7C9179E00
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830065&extension=ts&play_token=PLko0R8Pqp
-#EXTINF:-1 tvg-id="830065" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",14/10 02:00 AM | UEFA 04 Arsenal vs Lille
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7FE103FD1695BE5F92BEAB6E90AF596
+http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1292008
+#EXTINF:-1 tvg-id="1292015" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | SP FEYENOORD VS COMO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 075C3F15972DA226BAD8DF22DFDEAED1
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830065&extension=ts&play_token=adaqEfSJbV
-#EXTINF:-1 tvg-id="830065" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",14/10 02:00 AM | UEFA 04 Arsenal vs Lille
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7FE103FD1695BE5F92BEAB6E90AF596
+http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1292015
+#EXTINF:-1 tvg-id="1292020" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | DE FEYENOORD VS COMO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF73D95833E6A4F1D1FEE47A0DEA230F
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=830065&extension=ts&play_token=ChNTnJgj7X
-#EXTINF:-1 tvg-id="1987645" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OD DINSEY+/DISNEY+.png",14/10 02:00 AM | D+ FR 017| La grande soirée ARSENAL VS LILLE ( :00)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7FE103FD1695BE5F92BEAB6E90AF596
+http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1292020
+#EXTINF:-1 tvg-id="1274757" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | ALB FEYENOORD VS COMO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3DB452F879607585787528B7C9179E00
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1987645&extension=ts&play_token=lnl2ByFw78
-#EXTINF:-1 tvg-id="1987645" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OD DINSEY+/DISNEY+.png",14/10 02:00 AM | D+ FR 017| La grande soirée ARSENAL VS LILLE ( :00)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7FE103FD1695BE5F92BEAB6E90AF596
+http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1274757
+#EXTINF:-1 tvg-id="1150141" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | FR FEYENOORD VS COMO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 075C3F15972DA226BAD8DF22DFDEAED1
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1987645&extension=ts&play_token=2sbCxNMwJi
-#EXTINF:-1 tvg-id="1987645" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OD DINSEY+/DISNEY+.png",14/10 02:00 AM | D+ FR 017| La grande soirée ARSENAL VS LILLE ( :00)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 91823FBBE11EF62D7EC4C3CDF21D1C21
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1150141
+#EXTINF:-1 tvg-id="1292008" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | AR FEYENOORD VS COMO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF73D95833E6A4F1D1FEE47A0DEA230F
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1987645&extension=ts&play_token=Gl4V4A1F7F
-#EXTINF:-1 tvg-id="830064" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",14/10 02:00 AM | UEFA 05 Atletico Madrid vs Manchester United
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 91823FBBE11EF62D7EC4C3CDF21D1C21
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1292008
+#EXTINF:-1 tvg-id="1292015" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | SP FEYENOORD VS COMO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3DB452F879607585787528B7C9179E00
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830064&extension=ts&play_token=QWYydOBspc
-#EXTINF:-1 tvg-id="830064" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",14/10 02:00 AM | UEFA 05 Atletico Madrid vs Manchester United
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 91823FBBE11EF62D7EC4C3CDF21D1C21
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1292015
+#EXTINF:-1 tvg-id="1292020" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | DE FEYENOORD VS COMO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 075C3F15972DA226BAD8DF22DFDEAED1
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830064&extension=ts&play_token=qWaHWDstDj
-#EXTINF:-1 tvg-id="830064" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",14/10 02:00 AM | UEFA 05 Atletico Madrid vs Manchester United
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 91823FBBE11EF62D7EC4C3CDF21D1C21
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1292020
+#EXTINF:-1 tvg-id="1274757" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | ALB FEYENOORD VS COMO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF73D95833E6A4F1D1FEE47A0DEA230F
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=830064&extension=ts&play_token=ytLDGU9bL0
-#EXTINF:-1 tvg-id="830061" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",14/10 02:00 AM | UEFA 08 Rb Leipzig vs PSV
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 91823FBBE11EF62D7EC4C3CDF21D1C21
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1274757
+#EXTINF:-1 tvg-id="1150167" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | EN LASK LINZ VS LIVERPOOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3DB452F879607585787528B7C9179E00
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830061&extension=ts&play_token=XnrudL7QVf
-#EXTINF:-1 tvg-id="830061" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",14/10 02:00 AM | UEFA 08 Rb Leipzig vs PSV
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7FE103FD1695BE5F92BEAB6E90AF596
+http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1150167
+#EXTINF:-1 tvg-id="1150167" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | EN LASK LINZ VS LIVERPOOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 075C3F15972DA226BAD8DF22DFDEAED1
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830061&extension=ts&play_token=bzIlslM3uY
-#EXTINF:-1 tvg-id="830061" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",14/10 02:00 AM | UEFA 08 Rb Leipzig vs PSV
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 91823FBBE11EF62D7EC4C3CDF21D1C21
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1150167
+#EXTINF:-1 tvg-id="1150140" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | FR LASK LINZ VS LIVERPOOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF73D95833E6A4F1D1FEE47A0DEA230F
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=830061&extension=ts&play_token=QMWV7sZZbg
-#EXTINF:-1 tvg-id="830063" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",14/10 02:00 AM | UEFA 06 Galatasaraya vs Barcelona
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7FE103FD1695BE5F92BEAB6E90AF596
+http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1150140
+#EXTINF:-1 tvg-id="1292007" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | AR LASK LINZ VS LIVERPOOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3DB452F879607585787528B7C9179E00
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830063&extension=ts&play_token=9QMOiEDGY9
-#EXTINF:-1 tvg-id="830063" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",14/10 02:00 AM | UEFA 06 Galatasaraya vs Barcelona
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7FE103FD1695BE5F92BEAB6E90AF596
+http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1292007
+#EXTINF:-1 tvg-id="1150174" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | SP LASK LINZ VS LIVERPOOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 075C3F15972DA226BAD8DF22DFDEAED1
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830063&extension=ts&play_token=4faV8GZTNO
-#EXTINF:-1 tvg-id="830063" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",14/10 02:00 AM | UEFA 06 Galatasaraya vs Barcelona
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7FE103FD1695BE5F92BEAB6E90AF596
+http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1150174
+#EXTINF:-1 tvg-id="1292019" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | DE LASK LINZ VS LIVERPOOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF73D95833E6A4F1D1FEE47A0DEA230F
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=830063&extension=ts&play_token=1gTjxCPax4
-#EXTINF:-1 tvg-id="830060" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",14/10 02:00 AM | UEFA 09 Viking vs Bayern Munich
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7FE103FD1695BE5F92BEAB6E90AF596
+http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1292019
+#EXTINF:-1 tvg-id="1274756" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | ALB LASK LINZ VS LIVERPOOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3DB452F879607585787528B7C9179E00
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830060&extension=ts&play_token=qJvxzsq0fc
-#EXTINF:-1 tvg-id="830060" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",14/10 02:00 AM | UEFA 09 Viking vs Bayern Munich
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7FE103FD1695BE5F92BEAB6E90AF596
+http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1274756
+#EXTINF:-1 tvg-id="1150140" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | FR LASK LINZ VS LIVERPOOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 075C3F15972DA226BAD8DF22DFDEAED1
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830060&extension=ts&play_token=zljb93Ms61
-#EXTINF:-1 tvg-id="830060" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",14/10 02:00 AM | UEFA 09 Viking vs Bayern Munich
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 91823FBBE11EF62D7EC4C3CDF21D1C21
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1150140
+#EXTINF:-1 tvg-id="1292007" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | AR LASK LINZ VS LIVERPOOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF73D95833E6A4F1D1FEE47A0DEA230F
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=830060&extension=ts&play_token=HKrsEyvgNC
-#EXTINF:-1 tvg-id="830060" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",14/10 02:00 AM | UEFA 09 Viking vs Bayern Munich
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 91823FBBE11EF62D7EC4C3CDF21D1C21
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1292007
+#EXTINF:-1 tvg-id="1150174" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | SP LASK LINZ VS LIVERPOOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3DB452F879607585787528B7C9179E00
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830060&extension=ts&play_token=qJvxzsq0fc
-#EXTINF:-1 tvg-id="830060" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",14/10 02:00 AM | UEFA 09 Viking vs Bayern Munich
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 91823FBBE11EF62D7EC4C3CDF21D1C21
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1150174
+#EXTINF:-1 tvg-id="1292019" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | DE LASK LINZ VS LIVERPOOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 075C3F15972DA226BAD8DF22DFDEAED1
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830060&extension=ts&play_token=zljb93Ms61
-#EXTINF:-1 tvg-id="830060" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",14/10 02:00 AM | UEFA 09 Viking vs Bayern Munich
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 91823FBBE11EF62D7EC4C3CDF21D1C21
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1292019
+#EXTINF:-1 tvg-id="1274756" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | ALB LASK LINZ VS LIVERPOOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF73D95833E6A4F1D1FEE47A0DEA230F
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=830060&extension=ts&play_token=HKrsEyvgNC
-#EXTINF:-1 tvg-id="830065" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",14/10 02:00 AM | UEFA 04 Arsenal vs Lille
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 91823FBBE11EF62D7EC4C3CDF21D1C21
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1274756
+#EXTINF:-1 tvg-id="1150167" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | EN LASK LINZ VS LIVERPOOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3DB452F879607585787528B7C9179E00
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830065&extension=ts&play_token=PLko0R8Pqp
-#EXTINF:-1 tvg-id="830065" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",14/10 02:00 AM | UEFA 04 Arsenal vs Lille
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7FE103FD1695BE5F92BEAB6E90AF596
+http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1150167
+#EXTINF:-1 tvg-id="1150167" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | EN LASK LINZ VS LIVERPOOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 075C3F15972DA226BAD8DF22DFDEAED1
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830065&extension=ts&play_token=adaqEfSJbV
-#EXTINF:-1 tvg-id="830065" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",14/10 02:00 AM | UEFA 04 Arsenal vs Lille
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 91823FBBE11EF62D7EC4C3CDF21D1C21
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1150167
+#EXTINF:-1 tvg-id="1150140" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | FR LASK LINZ VS LIVERPOOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF73D95833E6A4F1D1FEE47A0DEA230F
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=830065&extension=ts&play_token=ChNTnJgj7X
-#EXTINF:-1 tvg-id="1987645" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OD DINSEY+/DISNEY+.png",14/10 02:00 AM | D+ FR 017| La grande soirée ARSENAL VS LILLE ( :00)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7FE103FD1695BE5F92BEAB6E90AF596
+http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1150140
+#EXTINF:-1 tvg-id="1292007" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | AR LASK LINZ VS LIVERPOOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3DB452F879607585787528B7C9179E00
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1987645&extension=ts&play_token=lnl2ByFw78
-#EXTINF:-1 tvg-id="1987645" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OD DINSEY+/DISNEY+.png",14/10 02:00 AM | D+ FR 017| La grande soirée ARSENAL VS LILLE ( :00)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7FE103FD1695BE5F92BEAB6E90AF596
+http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1292007
+#EXTINF:-1 tvg-id="1150174" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | SP LASK LINZ VS LIVERPOOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 075C3F15972DA226BAD8DF22DFDEAED1
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1987645&extension=ts&play_token=2sbCxNMwJi
-#EXTINF:-1 tvg-id="1987645" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OD DINSEY+/DISNEY+.png",14/10 02:00 AM | D+ FR 017| La grande soirée ARSENAL VS LILLE ( :00)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7FE103FD1695BE5F92BEAB6E90AF596
+http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1150174
+#EXTINF:-1 tvg-id="1292019" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | DE LASK LINZ VS LIVERPOOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF73D95833E6A4F1D1FEE47A0DEA230F
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=1987645&extension=ts&play_token=Gl4V4A1F7F
-#EXTINF:-1 tvg-id="933175" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",14/10 02:00 AM | ┃USA┃ PARAMOUNT+ SPORT 13 UEFA EUROPA LEAGUE THE GOLAZO SHOW
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7FE103FD1695BE5F92BEAB6E90AF596
+http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1292019
+#EXTINF:-1 tvg-id="1274756" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | ALB LASK LINZ VS LIVERPOOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3DB452F879607585787528B7C9179E00
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=933175&extension=ts&play_token=AedLZYOtF0
-#EXTINF:-1 tvg-id="933175" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",14/10 02:00 AM | ┃USA┃ PARAMOUNT+ SPORT 13 UEFA EUROPA LEAGUE THE GOLAZO SHOW
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7FE103FD1695BE5F92BEAB6E90AF596
+http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1274756
+#EXTINF:-1 tvg-id="1150140" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | FR LASK LINZ VS LIVERPOOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 075C3F15972DA226BAD8DF22DFDEAED1
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=933175&extension=ts&play_token=8lRJW5IPVI
-#EXTINF:-1 tvg-id="933175" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",14/10 02:00 AM | ┃USA┃ PARAMOUNT+ SPORT 13 UEFA EUROPA LEAGUE THE GOLAZO SHOW
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 91823FBBE11EF62D7EC4C3CDF21D1C21
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1150140
+#EXTINF:-1 tvg-id="1292007" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | AR LASK LINZ VS LIVERPOOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B5:9D:76; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CF73D95833E6A4F1D1FEE47A0DEA230F
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=933175&extension=ts&play_token=qgTjr3ka4I
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 91823FBBE11EF62D7EC4C3CDF21D1C21
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1292007
+#EXTINF:-1 tvg-id="1150174" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | SP LASK LINZ VS LIVERPOOL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 91823FBBE11EF62D7EC4C3CDF21D1C21
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1150174
+#EXTINF:-1 tvg-id="1292019" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | DE LASK LINZ VS LIVERPOOL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 91823FBBE11EF62D7EC4C3CDF21D1C21
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1292019
+#EXTINF:-1 tvg-id="1274756" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | ALB LASK LINZ VS LIVERPOOL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 91823FBBE11EF62D7EC4C3CDF21D1C21
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1274756
+#EXTINF:-1 tvg-id="1150168" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | EN FEYENOORD VS COMO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7FE103FD1695BE5F92BEAB6E90AF596
+http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1150168
+#EXTINF:-1 tvg-id="1150168" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | EN FEYENOORD VS COMO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 91823FBBE11EF62D7EC4C3CDF21D1C21
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1150168
+#EXTINF:-1 tvg-id="1150141" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | FR FEYENOORD VS COMO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7FE103FD1695BE5F92BEAB6E90AF596
+http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1150141
+#EXTINF:-1 tvg-id="1292008" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | AR FEYENOORD VS COMO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7FE103FD1695BE5F92BEAB6E90AF596
+http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1292008
+#EXTINF:-1 tvg-id="1292015" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | SP FEYENOORD VS COMO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7FE103FD1695BE5F92BEAB6E90AF596
+http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1292015
+#EXTINF:-1 tvg-id="1292020" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | DE FEYENOORD VS COMO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7FE103FD1695BE5F92BEAB6E90AF596
+http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1292020
+#EXTINF:-1 tvg-id="1274757" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | ALB FEYENOORD VS COMO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E7FE103FD1695BE5F92BEAB6E90AF596
+http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1274757
+#EXTINF:-1 tvg-id="1150141" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | FR FEYENOORD VS COMO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 91823FBBE11EF62D7EC4C3CDF21D1C21
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1150141
+#EXTINF:-1 tvg-id="1292008" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | AR FEYENOORD VS COMO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 91823FBBE11EF62D7EC4C3CDF21D1C21
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1292008
+#EXTINF:-1 tvg-id="1292015" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | SP FEYENOORD VS COMO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 91823FBBE11EF62D7EC4C3CDF21D1C21
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1292015
+#EXTINF:-1 tvg-id="1292020" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | DE FEYENOORD VS COMO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 91823FBBE11EF62D7EC4C3CDF21D1C21
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1292020
+#EXTINF:-1 tvg-id="1274757" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",14/10 11:45 PM | ALB FEYENOORD VS COMO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 91823FBBE11EF62D7EC4C3CDF21D1C21
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1274757
