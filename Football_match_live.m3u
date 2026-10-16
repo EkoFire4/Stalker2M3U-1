@@ -1,86 +1,76 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1314033" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK LA LIGA TEAMS/LEVANTE.png",17/10 02:00 AM | ┃ ┃ LA LIGA LEVANTE FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4B3AAFD79DB034A67E6ADCA0473D23AF
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1314033&extension=ts&play_token=o9qUZijhte
 #EXTINF:-1 tvg-id="1117243" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",17/10 02:00 AM | EN DEPORTIVO LA CORUÑA LEVANTE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C2:69:CF; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer DDD8563AAE636F0870737A1374151A2A
+#EXTVLCOPT:http-header=Authorization: Bearer 3EF1A6753DBFFE8AEE6C7759601AD00D
 http://8k26.site:80/MAG7MCZPZQ/MAGR24TJUW/1117243
 #EXTINF:-1 tvg-id="1117243" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",17/10 02:00 AM | EN DEPORTIVO LA CORUÑA LEVANTE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF74D8D148136397D0B638C17FD40E3C
-http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1117243
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7A:43:BA; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 30D3E4F9368C04BBBB7B7B857D2AD7DA
+http://5ghz.xyz:80/MAGN3YDC3U/VDObQwNkH8/1117243
 #EXTINF:-1 tvg-id="1117243" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",17/10 02:00 AM | EN DEPORTIVO LA CORUÑA LEVANTE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B720FBAF5CE192DF460FBE9E514F25A2
-http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1117243
+#EXTVLCOPT:http-cookie=mac=00:1A:79:8E:4F:9D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 59C6E4ACF711C00215B2EC80A89286EC
+http://2016goldenen.com:80/F27552F52337C9C/wtmfDAiY6s/1117243
 #EXTINF:-1 tvg-id="1117244" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",17/10 02:00 AM | FR DEPORTIVO LA CORUÑA LEVANTE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C2:69:CF; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer DDD8563AAE636F0870737A1374151A2A
+#EXTVLCOPT:http-header=Authorization: Bearer 3EF1A6753DBFFE8AEE6C7759601AD00D
 http://8k26.site:80/MAG7MCZPZQ/MAGR24TJUW/1117244
 #EXTINF:-1 tvg-id="1100782" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",17/10 02:00 AM | AR DEPORTIVO LA CORUÑA LEVANTE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C2:69:CF; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer DDD8563AAE636F0870737A1374151A2A
+#EXTVLCOPT:http-header=Authorization: Bearer 3EF1A6753DBFFE8AEE6C7759601AD00D
 http://8k26.site:80/MAG7MCZPZQ/MAGR24TJUW/1100782
 #EXTINF:-1 tvg-id="1117245" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",17/10 02:00 AM | ES DEPORTIVO LA CORUÑA LEVANTE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C2:69:CF; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer DDD8563AAE636F0870737A1374151A2A
+#EXTVLCOPT:http-header=Authorization: Bearer 3EF1A6753DBFFE8AEE6C7759601AD00D
 http://8k26.site:80/MAG7MCZPZQ/MAGR24TJUW/1117245
 #EXTINF:-1 tvg-id="1145838" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",17/10 02:00 AM | ALB DEPORTIVO LA CORUÑA LEVANTE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C2:69:CF; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer DDD8563AAE636F0870737A1374151A2A
+#EXTVLCOPT:http-header=Authorization: Bearer 3EF1A6753DBFFE8AEE6C7759601AD00D
 http://8k26.site:80/MAG7MCZPZQ/MAGR24TJUW/1145838
 #EXTINF:-1 tvg-id="1117244" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",17/10 02:00 AM | FR DEPORTIVO LA CORUÑA LEVANTE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF74D8D148136397D0B638C17FD40E3C
-http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1117244
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7A:43:BA; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 30D3E4F9368C04BBBB7B7B857D2AD7DA
+http://5ghz.xyz:80/MAGN3YDC3U/VDObQwNkH8/1117244
 #EXTINF:-1 tvg-id="1100782" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",17/10 02:00 AM | AR DEPORTIVO LA CORUÑA LEVANTE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF74D8D148136397D0B638C17FD40E3C
-http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1100782
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7A:43:BA; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 30D3E4F9368C04BBBB7B7B857D2AD7DA
+http://5ghz.xyz:80/MAGN3YDC3U/VDObQwNkH8/1100782
 #EXTINF:-1 tvg-id="1117245" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",17/10 02:00 AM | ES DEPORTIVO LA CORUÑA LEVANTE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF74D8D148136397D0B638C17FD40E3C
-http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1117245
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7A:43:BA; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 30D3E4F9368C04BBBB7B7B857D2AD7DA
+http://5ghz.xyz:80/MAGN3YDC3U/VDObQwNkH8/1117245
 #EXTINF:-1 tvg-id="1145838" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",17/10 02:00 AM | ALB DEPORTIVO LA CORUÑA LEVANTE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF74D8D148136397D0B638C17FD40E3C
-http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1145838
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7A:43:BA; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 30D3E4F9368C04BBBB7B7B857D2AD7DA
+http://5ghz.xyz:80/MAGN3YDC3U/VDObQwNkH8/1145838
 #EXTINF:-1 tvg-id="1117244" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",17/10 02:00 AM | FR DEPORTIVO LA CORUÑA LEVANTE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B720FBAF5CE192DF460FBE9E514F25A2
-http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1117244
+#EXTVLCOPT:http-cookie=mac=00:1A:79:8E:4F:9D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 59C6E4ACF711C00215B2EC80A89286EC
+http://2016goldenen.com:80/F27552F52337C9C/wtmfDAiY6s/1117244
 #EXTINF:-1 tvg-id="1100782" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",17/10 02:00 AM | AR DEPORTIVO LA CORUÑA LEVANTE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B720FBAF5CE192DF460FBE9E514F25A2
-http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1100782
+#EXTVLCOPT:http-cookie=mac=00:1A:79:8E:4F:9D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 59C6E4ACF711C00215B2EC80A89286EC
+http://2016goldenen.com:80/F27552F52337C9C/wtmfDAiY6s/1100782
 #EXTINF:-1 tvg-id="1117245" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",17/10 02:00 AM | ES DEPORTIVO LA CORUÑA LEVANTE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B720FBAF5CE192DF460FBE9E514F25A2
-http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1117245
+#EXTVLCOPT:http-cookie=mac=00:1A:79:8E:4F:9D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 59C6E4ACF711C00215B2EC80A89286EC
+http://2016goldenen.com:80/F27552F52337C9C/wtmfDAiY6s/1117245
 #EXTINF:-1 tvg-id="1145838" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="https://go4.pw/58.png",17/10 02:00 AM | ALB DEPORTIVO LA CORUÑA LEVANTE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B720FBAF5CE192DF460FBE9E514F25A2
-http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1145838
-#EXTINF:-1 tvg-id="1987658" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OD DINSEY+/DISNEY+.png",17/10 02:00 AM | D+ FR 030| Spanish R09: Deportivo de A Coruña vs Levante FR ( :00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4B3AAFD79DB034A67E6ADCA0473D23AF
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1987658&extension=ts&play_token=gQPvQZdi2q
+#EXTVLCOPT:http-cookie=mac=00:1A:79:8E:4F:9D; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 59C6E4ACF711C00215B2EC80A89286EC
+http://2016goldenen.com:80/F27552F52337C9C/wtmfDAiY6s/1145838
