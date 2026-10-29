@@ -1,91 +1,141 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1312097" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="https://go4.pw/USA/para.png",30/10 01:45 AM | US PARAMOUNT 07 FIORENTINA @ ATALANTA – /
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D14BEF42D485E62CF1E6FC2AF34469A7
-http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1312097
-#EXTINF:-1 tvg-id="1312097" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="https://go4.pw/USA/para.png",30/10 01:45 AM | US PARAMOUNT 07 FIORENTINA @ ATALANTA – /
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A06E80313DAAFC481EBE90CDEE3254A5
-http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1312097
 #EXTINF:-1 tvg-id="1312097" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="https://go4.pw/USA/para.png",30/10 02:45 AM | US PARAMOUNT 07 FIORENTINA @ ATALANTA – /
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D14BEF42D485E62CF1E6FC2AF34469A7
-http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1312097
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C2:69:CF; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7DB74D9CC20F48876B4C590B70F747AA
+http://8k26.site:80/MAG7MCZPZQ/MAGR24TJUW/1312097
 #EXTINF:-1 tvg-id="1312097" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="https://go4.pw/USA/para.png",30/10 02:45 AM | US PARAMOUNT 07 FIORENTINA @ ATALANTA – /
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A06E80313DAAFC481EBE90CDEE3254A5
+#EXTVLCOPT:http-header=Authorization: Bearer 13C86173E3BC411EB999A7EE4B366087
 http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1312097
+#EXTINF:-1 tvg-id="1100792" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="https://go4.pw/55.png",30/10 02:45 AM | EN FIORENTINA VS ATALANTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C2:69:CF; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7DB74D9CC20F48876B4C590B70F747AA
+http://8k26.site:80/MAG7MCZPZQ/MAGR24TJUW/1100792
+#EXTINF:-1 tvg-id="1100792" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="https://go4.pw/55.png",30/10 02:45 AM | EN FIORENTINA VS ATALANTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 13C86173E3BC411EB999A7EE4B366087
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1100792
+#EXTINF:-1 tvg-id="1100791" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="https://go4.pw/55.png",30/10 02:45 AM | IT FIORENTINA VS ATALANTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C2:69:CF; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7DB74D9CC20F48876B4C590B70F747AA
+http://8k26.site:80/MAG7MCZPZQ/MAGR24TJUW/1100791
+#EXTINF:-1 tvg-id="1421364" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="https://go4.pw/55.png",30/10 02:45 AM | AR FIORENTINA VS ATALANTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C2:69:CF; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7DB74D9CC20F48876B4C590B70F747AA
+http://8k26.site:80/MAG7MCZPZQ/MAGR24TJUW/1421364
+#EXTINF:-1 tvg-id="1100791" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="https://go4.pw/55.png",30/10 02:45 AM | IT FIORENTINA VS ATALANTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 13C86173E3BC411EB999A7EE4B366087
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1100791
+#EXTINF:-1 tvg-id="1421364" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="https://go4.pw/55.png",30/10 02:45 AM | AR FIORENTINA VS ATALANTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 13C86173E3BC411EB999A7EE4B366087
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1421364
 #EXTINF:-1 tvg-id="1312094" group-title="Live FA, League Cup-Match" tvg-logo="https://go4.pw/USA/para.png",30/10 02:45 AM | US PARAMOUNT 04 EVERTON @ NEWCASTLE UNITED – /
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D14BEF42D485E62CF1E6FC2AF34469A7
-http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1312094
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C2:69:CF; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7DB74D9CC20F48876B4C590B70F747AA
+http://8k26.site:80/MAG7MCZPZQ/MAGR24TJUW/1312094
 #EXTINF:-1 tvg-id="1312094" group-title="Live FA, League Cup-Match" tvg-logo="https://go4.pw/USA/para.png",30/10 02:45 AM | US PARAMOUNT 04 EVERTON @ NEWCASTLE UNITED – /
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A06E80313DAAFC481EBE90CDEE3254A5
+#EXTVLCOPT:http-header=Authorization: Bearer 13C86173E3BC411EB999A7EE4B366087
 http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1312094
 #EXTINF:-1 tvg-id="1100811" group-title="Live FA, League Cup-Match" tvg-logo="https://go4.pw/59.png",30/10 02:45 AM | EN EVERTON VS NEWCASTLE UNITED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C2:69:CF; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6F7685F7BEF71CF90DEAAAC6B1F0FEC1
+#EXTVLCOPT:http-header=Authorization: Bearer 7DB74D9CC20F48876B4C590B70F747AA
 http://8k26.site:80/MAG7MCZPZQ/MAGR24TJUW/1100811
 #EXTINF:-1 tvg-id="1100811" group-title="Live FA, League Cup-Match" tvg-logo="https://go4.pw/59.png",30/10 02:45 AM | EN EVERTON VS NEWCASTLE UNITED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:8E:4F:9D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE04C36CBB99DAE6371A006445774987
-http://2016goldenen.com:80/F27552F52337C9C/wtmfDAiY6s/1100811
-#EXTINF:-1 tvg-id="1100811" group-title="Live FA, League Cup-Match" tvg-logo="https://go4.pw/59.png",30/10 02:45 AM | EN EVERTON VS NEWCASTLE UNITED
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D14BEF42D485E62CF1E6FC2AF34469A7
-http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1100811
-#EXTINF:-1 tvg-id="1100811" group-title="Live FA, League Cup-Match" tvg-logo="https://go4.pw/59.png",30/10 02:45 AM | EN EVERTON VS NEWCASTLE UNITED
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A06E80313DAAFC481EBE90CDEE3254A5
+#EXTVLCOPT:http-header=Authorization: Bearer 13C86173E3BC411EB999A7EE4B366087
 http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1100811
 #EXTINF:-1 tvg-id="1100813" group-title="Live FA, League Cup-Match" tvg-logo="https://go4.pw/59.png",30/10 02:45 AM | FR EVERTON VS NEWCASTLE UNITED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C2:69:CF; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6F7685F7BEF71CF90DEAAAC6B1F0FEC1
+#EXTVLCOPT:http-header=Authorization: Bearer 7DB74D9CC20F48876B4C590B70F747AA
 http://8k26.site:80/MAG7MCZPZQ/MAGR24TJUW/1100813
 #EXTINF:-1 tvg-id="1100815" group-title="Live FA, League Cup-Match" tvg-logo="https://go4.pw/59.png",30/10 02:45 AM | AR EVERTON VS NEWCASTLE UNITED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C2:69:CF; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6F7685F7BEF71CF90DEAAAC6B1F0FEC1
+#EXTVLCOPT:http-header=Authorization: Bearer 7DB74D9CC20F48876B4C590B70F747AA
 http://8k26.site:80/MAG7MCZPZQ/MAGR24TJUW/1100815
-#EXTINF:-1 tvg-id="1100813" group-title="Live FA, League Cup-Match" tvg-logo="https://go4.pw/59.png",30/10 02:45 AM | FR EVERTON VS NEWCASTLE UNITED
+#EXTINF:-1 tvg-id="1388024" group-title="Live FA, League Cup-Match" tvg-logo="https://go4.pw/59.png",30/10 02:45 AM | ALB EVERTON VS NEWCASTLE UNITED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:8E:4F:9D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE04C36CBB99DAE6371A006445774987
-http://2016goldenen.com:80/F27552F52337C9C/wtmfDAiY6s/1100813
-#EXTINF:-1 tvg-id="1100815" group-title="Live FA, League Cup-Match" tvg-logo="https://go4.pw/59.png",30/10 02:45 AM | AR EVERTON VS NEWCASTLE UNITED
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:8E:4F:9D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FE04C36CBB99DAE6371A006445774987
-http://2016goldenen.com:80/F27552F52337C9C/wtmfDAiY6s/1100815
-#EXTINF:-1 tvg-id="1100813" group-title="Live FA, League Cup-Match" tvg-logo="https://go4.pw/59.png",30/10 02:45 AM | FR EVERTON VS NEWCASTLE UNITED
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D14BEF42D485E62CF1E6FC2AF34469A7
-http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1100813
-#EXTINF:-1 tvg-id="1100815" group-title="Live FA, League Cup-Match" tvg-logo="https://go4.pw/59.png",30/10 02:45 AM | AR EVERTON VS NEWCASTLE UNITED
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C0:BD:3D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D14BEF42D485E62CF1E6FC2AF34469A7
-http://5ghz.xyz:80/L84NFC5BQ8TVT3T/m1m02rWyr2/1100815
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C2:69:CF; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7DB74D9CC20F48876B4C590B70F747AA
+http://8k26.site:80/MAG7MCZPZQ/MAGR24TJUW/1388024
 #EXTINF:-1 tvg-id="1100813" group-title="Live FA, League Cup-Match" tvg-logo="https://go4.pw/59.png",30/10 02:45 AM | FR EVERTON VS NEWCASTLE UNITED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A06E80313DAAFC481EBE90CDEE3254A5
+#EXTVLCOPT:http-header=Authorization: Bearer 13C86173E3BC411EB999A7EE4B366087
 http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1100813
 #EXTINF:-1 tvg-id="1100815" group-title="Live FA, League Cup-Match" tvg-logo="https://go4.pw/59.png",30/10 02:45 AM | AR EVERTON VS NEWCASTLE UNITED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A06E80313DAAFC481EBE90CDEE3254A5
+#EXTVLCOPT:http-header=Authorization: Bearer 13C86173E3BC411EB999A7EE4B366087
 http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1100815
+#EXTINF:-1 tvg-id="1388024" group-title="Live FA, League Cup-Match" tvg-logo="https://go4.pw/59.png",30/10 02:45 AM | ALB EVERTON VS NEWCASTLE UNITED
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 13C86173E3BC411EB999A7EE4B366087
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1388024
+#EXTINF:-1 tvg-id="1300668" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="https://go4.pw/USA/FloSport.png",31/10 12:00 AM | US FLO 693 VOLLEYBALL SAINT MICHAELS VS BENTLEY WOMENS – /
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C2:69:CF; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7DB74D9CC20F48876B4C590B70F747AA
+http://8k26.site:80/MAG7MCZPZQ/MAGR24TJUW/1300668
+#EXTINF:-1 tvg-id="1300715" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="https://go4.pw/USA/FloSport.png",31/10 12:00 AM | US FLO 740 VOLLEYBALL SAINT ANSELM VS ASSUMPTION WOMENS – /
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C2:69:CF; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7DB74D9CC20F48876B4C590B70F747AA
+http://8k26.site:80/MAG7MCZPZQ/MAGR24TJUW/1300715
+#EXTINF:-1 tvg-id="1300668" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="https://go4.pw/USA/FloSport.png",31/10 12:00 AM | US FLO 693 VOLLEYBALL SAINT MICHAELS VS BENTLEY WOMENS – /
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 13C86173E3BC411EB999A7EE4B366087
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1300668
+#EXTINF:-1 tvg-id="1300715" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="https://go4.pw/USA/FloSport.png",31/10 12:00 AM | US FLO 740 VOLLEYBALL SAINT ANSELM VS ASSUMPTION WOMENS – /
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:79:1D:53; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 13C86173E3BC411EB999A7EE4B366087
+http://5ghz.xyz:80/027316900437051/7IzgJSUMkm/1300715
+#EXTINF:-1 tvg-id="933167" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",31/10 12:00 AM | ┃USA┃ PARAMOUNT+ SPORT 5 CONCACAF NATIONS LEAGUE SAINT MARTIN VS CURACAO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C475DB0DEAA57BD3D700C75F2A5EB7D
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=933167&extension=ts&play_token=9eOogUVrRl
+#EXTINF:-1 tvg-id="933167" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",31/10 12:00 AM | ┃USA┃ PARAMOUNT+ SPORT 5 CONCACAF NATIONS LEAGUE SAINT MARTIN VS CURACAO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FC602EB1F27F9979D868F909821F7585
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=933167&extension=ts&play_token=WPwmPD2UNs
+#EXTINF:-1 tvg-id="1987631" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OD DINSEY+/DISNEY+.png",31/10 12:00 AM | D+ FR 003| UEFA Women's Champions League Paris FC vs Häcken ( :42)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C475DB0DEAA57BD3D700C75F2A5EB7D
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1987631&extension=ts&play_token=heHUAZuAeQ
+#EXTINF:-1 tvg-id="1987633" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OD DINSEY+/DISNEY+.png",31/10 12:00 AM | D+ FR 005| UEFA Women's Champions League Man City vs Paris SG ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C475DB0DEAA57BD3D700C75F2A5EB7D
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1987633&extension=ts&play_token=7RksPVjCKC
+#EXTINF:-1 tvg-id="1987631" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OD DINSEY+/DISNEY+.png",31/10 12:00 AM | D+ FR 003| UEFA Women's Champions League Paris FC vs Häcken ( :42)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FC602EB1F27F9979D868F909821F7585
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1987631&extension=ts&play_token=mOZ9rwvAR5
+#EXTINF:-1 tvg-id="1987633" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OD DINSEY+/DISNEY+.png",31/10 12:00 AM | D+ FR 005| UEFA Women's Champions League Man City vs Paris SG ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FC602EB1F27F9979D868F909821F7585
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1987633&extension=ts&play_token=t7Xkro0iXN
