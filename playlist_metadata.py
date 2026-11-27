@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Offline playlist metadata engine v1.2. Python 3.9+, standard library only."""
+"""Offline playlist metadata engine v1.3. Python 3.9+, standard library only."""
 import argparse
 import collections
 import html
@@ -84,20 +84,12 @@ def identity(r):
         key=r['region']+':'+name
     return name,key,aliases
 
-def main():
-    p=argparse.ArgumentParser(description=__doc__); p.add_argument('playlist',nargs='?',default='Mac_playlist.m3u'); p.add_argument('--output-dir',default='metadata'); a=p.parse_args()
-    rows=list(parse(Path(a.playlist))); ids=collections.Counter(r['tvg_id'] for r in rows if r['tvg_id']); identities=collections.Counter((r['region'],r['matching_key']) for r in rows if r['region'] and r['matching_key'] and r['kind']=='regular')
-    for r in rows:
-        r['duplicate_id']=ids[r['tvg_id']]>1; r['identity_candidate_count']=identities[(r['region'],r['matching_key'])]
-    report={'version':'1.2','entries':len(rows),'unique_ids':len(ids),'missing_ids':sum(not r['tvg_id'] for r in rows),'duplicate_ids':{k:v for k,v in ids.items() if v>1},'region_status':dict(collections.Counter(r['region_status'] for r in rows)),'regions':dict(collections.Counter(r['region'] or 'unknown' for r in rows)),'kinds':dict(collections.Counter(r['kind'] for r in rows)),'quality_labelled':sum(bool(r['quality']) for r in rows),'redacted_entries':sum('[redacted]' in (r['original_name'],r['display_name'],r['group'],r['tvg_id']) for r in rows),'regional_groups':dict(collections.Counter(r['regional_group'] for r in rows if r['region_status']=='regional')),'review_entries':sum(r['region_status']!='identified' or r['kind']!='regular' for r in rows)}
-    for r in rows:
-        r['identity_name'],r['identity_key'],r['alias_candidates']=identity(r)
-    groups=collections.Counter(r['identity_key'] for r in rows if r['identity_key'])
-    for r in rows:
-        r['identity_group_size']=groups[r['identity_key']]
-    report.update({'identity_eligible':sum(groups.values()),'distinct_candidate_identities':len(groups),'duplicate_identity_groups':sum(v>1 for v in groups.values()),'entries_in_duplicate_identity_groups':sum(v for v in groups.values() if v>1),'alias_candidate_entries':sum(bool(r['alias_candidates']) for r in rows),'identity_name_changes':sum(r['identity_name']!=unicodedata.normalize('NFKC',r['matching_name']).casefold() for r in rows)})
-    out=Path(a.output_dir); out.mkdir(parents=True,exist_ok=True)
-    for filename,data in [('channel_catalogue.json',rows),('metadata_report.json',report)]:
-        (out/filename).write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-    print(json.dumps(report,indent=2))
-if __name__=='__main__': main()
+# Exact, region-scoped candidates; no schedule equivalence is asserted.
+PERMANENT = {
+    'uk': r'tnt sports [1-5]|sky sports main events?(?: 50 fps)?',
+    'nl': r'ziggo sport [1-6]',
+    'fr': r'canal\+ sport',
+    'it': r'sky sport uno',
+    'al': r'tring sport [1-9]',
+    'de': r'sky sport top event(?: raw)?',
+}
